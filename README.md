@@ -3,7 +3,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="[https://i.imgur.com/aNBi8Jf.png](https://www.solofondos.com/wp-content/uploads/2016/01/fondos-de-pantalla-de-autos-para-celular-gratis-1.jpg)"/>
+<img align="right" width="400" alt="Shimarin" src="https://imgur.com/a/c48W0yr"/>
 
 <h2> / about me /</h2>
   
