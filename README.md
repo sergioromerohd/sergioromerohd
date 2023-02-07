@@ -3,7 +3,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://imgur.com/a/c48W0yr"/>
+<blockquote align="right" with="400"class="imgur-embed-pub" lang="en" data-id="a/c48W0yr" data-context="false" ><a href="//imgur.com/a/c48W0yr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <h2> / about me /</h2>
   
