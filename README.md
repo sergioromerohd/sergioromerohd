@@ -3,7 +3,7 @@
 
 <div>
 
-<img src"https://www.solofondos.com/wp-content/uploads/2021/03/74-749165_fondos-de-pantalla-oscuros.jpg" align="right">
+<img src"https://www.solofondos.com/wp-content/uploads/2021/03/74-749165_fondos-de-pantalla-oscuros.jpg" align="right"/>
 
 <h2> / about me /</h2>
   
