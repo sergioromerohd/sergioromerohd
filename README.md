@@ -3,7 +3,7 @@
 
 <div>
 
-<blockquote align="right" with="400"class="imgur-embed-pub" lang="en" data-id="a/c48W0yr" data-context="false" ><a href="//imgur.com/a/c48W0yr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src"https://www.solofondos.com/wp-content/uploads/2021/03/74-749165_fondos-de-pantalla-oscuros.jpg" align="right">
 
 <h2> / about me /</h2>
   
