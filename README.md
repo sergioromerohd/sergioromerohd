@@ -2,8 +2,6 @@
 <h2>Full stack developer</h2>
 
 <div>
-  <div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/F5Ntc0kDjcjHD8Qxyu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/F5Ntc0kDjcjHD8Qxyu">via GIPHY</a></p>
-
 <img src="https://www.solofondos.com/wp-content/uploads/2021/03/74-749165_fondos-de-pantalla-oscuros.jpg" align="right" width="350"/>
 
 <h2> / about me /</h2>
