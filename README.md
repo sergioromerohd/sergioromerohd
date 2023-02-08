@@ -2,7 +2,7 @@
 <h2>Full stack developer</h2>
 
 <div>
-<img src="https://www.solofondos.com/wp-content/uploads/2021/03/74-749165_fondos-de-pantalla-oscuros.jpg" align="right" width="350"/>
+<img src="https://media1.giphy.com/media/F5Ntc0kDjcjHD8Qxyu/giphy.gif?cid=790b7611b386f6f372ac2bc30abb107f4d5215aa410cb31c&rid=giphy.gif&ct=g" align="right" width="350"/>
 
 <h2> / about me /</h2>
   
