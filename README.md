@@ -2,7 +2,8 @@
 <h2>Full stack developer</h2>
 
 <div>
-<img src="https://media1.giphy.com/media/F5Ntc0kDjcjHD8Qxyu/giphy.gif?cid=790b7611b386f6f372ac2bc30abb107f4d5215aa410cb31c&rid=giphy.gif&ct=g" align="right" width="350"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGswMnBucTRyYW50MGRsNnIxZXMyZjFmNWM2d2dkbTE4a2xmenhuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2x4FNvO0AycdNsduAG/giphy.gif" align="right" width="350"/>
+
 
 <h2> / about me /</h2>
   
