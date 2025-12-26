@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # Se actualiza cada día a las 00:00
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite ejecutarlo manualmente
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          # Opciones de configuración
+          user: sergioromerohd
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Madrid
+          # AQUÍ ESTÁ LA CLAVE: Contar repos privados
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_details: bytes-size, percentage
