@@ -52,3 +52,6 @@ Soy un desarrollador Full Stack con base en España. Me especializo en el ecosis
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sergioromerohd&theme=tokyonight" alt="profile details" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sergioromerohd&theme=tokyonight" alt="languages" />
 </div>
+<div align="center">
+  <img src="https://github.com/sergioromerohd/sergioromerohd/blob/metrics/github-metrics.svg" alt="Metrics" width="100%">
+</div>
