@@ -49,5 +49,5 @@ Soy un desarrollador Full Stack con base en España. Me especializo en el ecosis
 ### 📊 Estadísticas
 
 <div align="center">
-  <img src="[https://github.com/sergioromerohd/sergioromerohd/blob/metrics/github-metrics.svg](https://raw.githubusercontent.com/sergioromerohd/sergioromerohd/77ae17a35da2cc3381eb5190ed29c8d9ee5c1830/github-metrics.svg)" alt="Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/sergioromerohd/sergioromerohd/refs/heads/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
