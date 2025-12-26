@@ -14,9 +14,6 @@
     <a href="https://www.linkedin.com/in/sergioromerohd/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:tuemail@ejemplo.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
   </p>
 </div>
 
@@ -27,7 +24,7 @@
 Soy un desarrollador Full Stack con base en España. Me especializo en el ecosistema **JavaScript/TypeScript** y **Java**, aunque siempre estoy explorando nuevas tecnologías como C# y el desarrollo móvil.
 
 - 🔭 Actualmente estoy trabajando en mejorar mis habilidades en **Arquitectura de Software**.
-- 🌱 Estoy aprendiendo profundamente sobre **React Native y .NET**.
+- 🌱 Estoy aprendiendo profundamente sobre **React Native y C#** 
 - 💼 Puedes ver mi trayectoria completa en mi [Web Personal](https://cv.sergioromerohd.com).
 
 ---
