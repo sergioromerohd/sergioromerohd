@@ -47,14 +47,15 @@ Soy un desarrollador Full Stack con base en España. Me especializo en el ecosis
 </div>
 
 ---
-
-### 📊 Estadísticas de GitHub
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sergioromerohd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioromerohd&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
-</div>
+  <h3>📊 Mis Estadísticas</h3>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sergioromerohd&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioromerohd&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
+  </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sergioromerohd&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=sergioromerohd&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  </p>
 </div>
