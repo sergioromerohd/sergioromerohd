@@ -242,7 +242,8 @@ def stack(variant):
 
 # ───────────────────────── stats ─────────────────────────
 MESES = ["ene", "feb", "mar", "abr", "may", "jun", "jul", "ago", "sep", "oct", "nov", "dic"]
-IGNORE_LANGS = {"HTML", "CSS", "SCSS", "Dockerfile", "Shell", "Makefile"}
+# Marcado/estilos y el andamiaje nativo que React Native genera solo (C++, Objective-C, Kotlin…): no es código propio.
+IGNORE_LANGS = {"HTML", "CSS", "SCSS", "Dockerfile", "Shell", "Makefile", "C++", "C", "Objective-C", "Objective-C++", "Kotlin", "CMake", "Ruby", "Logos"}
 QUERY = """query($after:String){viewer{login
  contributionsCollection{contributionCalendar{totalContributions weeks{contributionDays{date contributionCount}}}}
  repositories(first:100 after:$after ownerAffiliations:OWNER isFork:false){pageInfo{hasNextPage endCursor}
